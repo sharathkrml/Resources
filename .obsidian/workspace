@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web3 Resources.md",
+            "file": "Solidity.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web3 Resources.md",
+                "file": "Solidity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web3 Resources.md",
+                "file": "Solidity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web3 Resources.md"
+                "file": "Solidity.md"
               }
             }
           }
@@ -130,8 +130,8 @@
   },
   "active": "819f1b494d10e33c",
   "lastOpenFiles": [
+    "Web3 Resources.md",
     "TypeScript Series.md",
-    "README.md",
-    "Web3 Resources.md"
+    "README.md"
   ]
 }
