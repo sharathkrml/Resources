@@ -1,5 +1,3 @@
 # Resources
 
-This Repo will contain resources,Twitter threads ,etc
-
-[[TypeScript Series]]
+This Repo contains resources,Twitter threads ,etc
